@@ -10,10 +10,9 @@ export const workSlider = {
           codeURL: 'https://github.com/Cristian-sanchez14/ecommerce-store',
         },
         {
-          title: 'Netflex Clone',
-          path: '/2.png',
-          link: 'https://netflix-reactjs-cristian.netlify.app/',
-          codeURL: 'https://github.com/Cristian-sanchez14/netflix-clone-react',
+          title: 'Restaurant React Native',
+          path: '/reactNative.jpg',
+          codeURL: 'https://github.com/Cristian-sanchez14/MealsToGo',
         },
         {
           title: '3d Portfolio Website',

@@ -126,10 +126,10 @@ const About = () => {
             className='max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'
           >
             At 21 years old, I still was not sure what I wanted to pursue or dedicate 
-            my life to. I grew up in a small town in Idaho, wishing to have a better life. 
+            my life to. I grew up in a small town in Idaho, wishing to have a better live. 
             I have moved around and gained a lot of life knowledge. However, not enough life 
-            experiences. I discovered programming and all that it could offer. I have found  
-            what I need to pursue in life and not just make my life better but gain those 
+            experiences. I discovering programming and all that it could offer. I have found  
+            what I need to pursue in life and not just make my life better but to gain those 
             life experiences that I need to be a better person.
           </motion.p>
           {/* counters */}
